@@ -1,3 +1,17 @@
-I'll be trying to make a LLM(large language models) aggregator.
-Let's see how much deep I get into this project.
+day 1:I'll be trying to make a LLM(large language models) aggregator.
+    Let's see how much deep I get into this project.
+    (llm works according to how we train the language, e.g., human intervention or RLHF(Reinforcement learning with human feedback))
 
+    providing a single interface to talk to any of the multiple LLM.
+
+    create a library where I expose some endpoints and users can hit those endpoints to get responses.
+
+    ispiration: ollama
+
+    day 1 will include learning about the specific topic like llm
+
+    ---------------------------------------------------------------------------
+    -usually AI's uses transformer, e.g., text to image transformer, text to audio transformer.
+    -the prompt is broken or converted into tokens, could be symbols words, in case of audio or image it could be 
+    small portions of those audio or image
+    -each token is associated with
