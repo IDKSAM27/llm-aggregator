@@ -10,6 +10,9 @@ day 1:I'll be trying to make a LLM(large language models) aggregator.
 
     day 1 will include learning about the specific topic like llm
 
-    ---------------------------------------------------------------------------
+---------------------------------------------------------------------------
 
 day 2:Trying to complete the learning of the LLM 
+    Update: completed LLM.
+
+---------------------------------------------------------------------------
