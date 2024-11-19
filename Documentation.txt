@@ -11,7 +11,5 @@ day 1:I'll be trying to make a LLM(large language models) aggregator.
     day 1 will include learning about the specific topic like llm
 
     ---------------------------------------------------------------------------
-    -usually AI's uses transformer, e.g., text to image transformer, text to audio transformer.
-    -the prompt is broken or converted into tokens, could be symbols words, in case of audio or image it could be 
-    small portions of those audio or image
-    -each token is associated with
+
+day 2:Trying to complete the learning of the LLM 
