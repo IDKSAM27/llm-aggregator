@@ -19,3 +19,59 @@ day 2:Trying to complete the learning of the LLM
 
 day 3:Setting project expectations and goals, or atleast trying to set goals. A rought idea how our LLM aggregator should be.
 
+An LLM aggregator is a system that integrates multiple large language models to perform tasks like combining their capabililties.
+It acts as a middle layer between users and LLMs.
+
+    Key Features(of my LLM Aggregator):
+
+    1. Model Selection: Automatically chooses the best LLM based on the query, task or user preferences.
+
+    2. Collaboration: Merges outputs from multiple LLMs to improve response accuracy and diversity.
+
+    3. Cost Optimization: Firstly I'll use free API's and in the future maybe I'll go with paid if it is actually worth.
+
+    4. Specialization: Routes domain-specific queries (like, programming, medical, legal) to the most suitable model.
+
+    5. Fallback Mechanism: Uses alternative models if the primary one fails or give poor results.
+
+    (will add up later if needed in the future!)
+
+**imp
+
+1. Defining use case:
+    * Aggregator will handle general-purpose queries
+                        or
+      Focus specific domains(like, coding, content writing, data analysis).
+
+    * List of Free API's:
+
+
+
+2. Choosing a Development Stack:
+    * Prog. Lang.: Python
+    * Frameworks and Tools:
+        FastAPI or Flask (build API's)
+        LangChain (to manage interactions with LLM's)
+        LLS API's (Integrates API's)
+
+3. Integrate LLMs:
+
+4. Implement Query Routing:
+    * if code related go to gpt-4-coding 
+    or if medical go to claude-medical
+
+5. Combine Outputs:
+
+6. Create a User Interface:
+    * CLI: Simple command-line interface for basic usage.
+    * Web App: Use Streamlit, Gradio, or a custom front-end with React/Vue.
+    * Chatbots: Integrate into platforms like Discord, Slack, or Telegram.
+
+7. Optimize Performance:
+    * Implement caching with tools like Redis to store recent responses.
+    * Use rate-limiting and monitor API usage to manage costs.
+    * Scale using cloud platforms like AWS, Azure, or GCP.
+
+8. Test and Deploy:
+    * Extensive testing
+    * Deploy using Docker, Kubernates, or directly on cloud services.
