@@ -16,3 +16,6 @@ day 2:Trying to complete the learning of the LLM
     Update: completed LLM.
 
 ---------------------------------------------------------------------------
+
+day 3:Setting project expectations and goals, or atleast trying to set goals. A rought idea how our LLM aggregator should be.
+
