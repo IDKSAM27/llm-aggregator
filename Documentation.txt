@@ -81,3 +81,4 @@ It acts as a middle layer between users and LLMs.
 day 4:
 
 List of free AI APIs: 
+    Google Gemini API: get the API key from the gemini website!!
