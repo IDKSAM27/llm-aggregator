@@ -31,3 +31,4 @@ def query():
 
 if __name__ == '__main__':
     app.run(debug=True)
+# The api's which are paid cannot be used, hence this project is paused for a good reason
